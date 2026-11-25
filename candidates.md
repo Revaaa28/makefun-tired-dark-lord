@@ -31,3 +31,4 @@ off" lands after the escalation; ~100 words (101).
 Loses pairwise vs A: the closing sting "keeping the good chair" is weaker
 than "taking the afternoon off"; "frogs unionizing" is a good detail but
 the scheme is less concrete than A's.
+# Re-authored for submission.
